@@ -1,0 +1,6 @@
+# ignore proejct folder
+portfolio-project/
+
+# ignore video files 
+.mp3
+.mp4
