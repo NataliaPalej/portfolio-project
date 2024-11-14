@@ -2,5 +2,5 @@
 portfolio-project/
 
 # ignore video files 
-.mp3
-.mp4
+*.mp4
+*.mp3
